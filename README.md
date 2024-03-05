@@ -31,3 +31,5 @@ bash
 Copy code
 python loginz.py
 
+Creator ChatGPT 3.5 assisted by Pcap_Pirate.
+Hello, I wanted to see if I could get ChatGPT 3.5 to fully create me this idea I had with Python on it's own and it did it! It would give me errors at times when it got futher into the program but feeding it it's own errors fixed its own code and TaDa! Here it is full code written in ChatGPT 3.5.
